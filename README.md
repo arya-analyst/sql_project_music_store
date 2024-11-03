@@ -1,6 +1,6 @@
 # sql_project_music_store
 
-## Dtabase and Tools
+## Database and Tools
 - Oracle
 - SQL Developer
 
