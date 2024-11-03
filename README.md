@@ -1,5 +1,7 @@
 # sql_project_music_store
 
+![Schema]()
+
 ### Q1. Who  is the senior most employee based on job title?
 ```sql
 Select * from employee
