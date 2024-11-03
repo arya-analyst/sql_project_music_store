@@ -1,5 +1,10 @@
 # sql_project_music_store
 
+## Dtabase and Tools
+- Oracle
+- SQL Developer
+
+## Schema
 ![Schema](https://github.com/arya-analyst/sql_project_music_store/blob/main/schema_diagram.png)
 
 ### Q1. Who  is the senior most employee based on job title?
