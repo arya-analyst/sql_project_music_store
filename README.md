@@ -7,6 +7,7 @@ order by levels desc
 Fetch FIRST 1 Row ONLY;
 
 -- Alternate
+
 Select * from employee
 Where reports_to IS NULL;
 
